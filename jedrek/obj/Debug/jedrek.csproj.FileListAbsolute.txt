@@ -1,0 +1,13 @@
+C:\Users\niemc\source\repos\jedrek\jedrek\bin\Debug\jedrek.exe.config
+C:\Users\niemc\source\repos\jedrek\jedrek\bin\Debug\jedrek.exe
+C:\Users\niemc\source\repos\jedrek\jedrek\bin\Debug\jedrek.pdb
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.csprojAssemblyReference.cache
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.Form1.resources
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.Properties.Resources.resources
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.csproj.GenerateResource.cache
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.exe
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.pdb
+C:\Users\niemc\source\repos\jedrek\jedrek\bin\Debug\MathNet.Numerics.dll
+C:\Users\niemc\source\repos\jedrek\jedrek\bin\Debug\MathNet.Numerics.pdb
+C:\Users\niemc\source\repos\jedrek\jedrek\bin\Debug\MathNet.Numerics.xml
+C:\Users\niemc\source\repos\jedrek\jedrek\obj\Debug\jedrek.csproj.CopyComplete
